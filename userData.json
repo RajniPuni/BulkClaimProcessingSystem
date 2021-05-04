@@ -1,0 +1,62 @@
+[
+    {
+        "userId":"0001",
+        "name":"John", 
+        "address1":"56 Test street",
+        "city":"Halifax",
+        "state":"NS",
+        "zip":"B2H0A0",
+        "drivingExp":4,
+        "noOfAccidents":0,
+        "noOftickets":1,
+        "topicArn":"arn:aws:sns:us-east-1:682768179417:demo-basics-topic-1617765814759604300:5ec3eb4a-6dd1-4418-b88e-eab2924cbcf3"        
+    },
+    {
+        "userId":"0002",
+        "name":"William", 
+        "address1":"156 Test street",
+        "city":"Toronto",
+        "state":"ON",
+        "zip":"66777",
+        "drivingExp":4,
+        "noOfAccidents":2,
+        "noOftickets":3,
+        "topicArn":"arn:aws:sns:us-east-1:682768179417:demo-basics-topic-1617765814759604300:5ec3eb4a-6dd1-4418-b88e-eab2924cbcf3"  
+    },
+    {
+        "userId":"0003",
+        "name":"Avery", 
+        "address1":"2345 Test street",
+        "city":"Montreal",
+        "state":"QC",
+        "zip":"K0AK4c",
+        "drivingExp":4,
+        "noOfAccidents":0,
+        "noOftickets":0,
+        "topicArn":"arn:aws:sns:us-east-1:682768179417:demo-basics-topic-1617765814759604300:5ec3eb4a-6dd1-4418-b88e-eab2924cbcf3"  
+    },
+    {
+        "userId":"0004",
+        "name":"Mason", 
+        "address1":"897 Test street",
+        "city":"Moncton",
+        "state":"NB",
+        "zip":"E1AOA3",
+        "drivingExp":4,
+        "noOfAccidents":1,
+        "noOftickets":0,
+        "topicArn":"arn:aws:sns:us-east-1:682768179417:demo-basics-topic-1617765814759604300:5ec3eb4a-6dd1-4418-b88e-eab2924cbcf3"  
+    },
+    {
+        "userId":"0005",
+        "name":"Evelyn", 
+        "address1":"09 Test street",
+        "city":"Vancouver",
+        "state":"BC",
+        "zip":"V3H",
+        "drivingExp":4,
+        "noOfAccidents":4,
+        "noOftickets":5,
+        "topicArn":"arn:aws:sns:us-east-1:682768179417:demo-basics-topic-1617765814759604300:5ec3eb4a-6dd1-4418-b88e-eab2924cbcf3"  
+    }    
+]

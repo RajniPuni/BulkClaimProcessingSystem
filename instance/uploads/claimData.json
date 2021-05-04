@@ -1,0 +1,26 @@
+[
+    {
+        "claimNumber":"CLM112",       
+        "policyNumber":"POL1000", 
+        "dateOfLoss":"2021-03-01",
+        "userName":"Test", 
+        "dateOfBirth":"1985-07-09", 
+        "vehicleNumber":"123DHL", 
+        "policeReport":"test police report", 
+        "accAddress1":"Street B", 
+        "accCity":"Halifax", 
+        "accState":"Nova Scotia", 
+        "accZipCode":"NHLB35", 
+        "otherPartyInvolved":"Y", 
+        "opName":"Jessica",
+        "opMake":"Hyundai",
+        "opModel":"V1",
+        "opYear":2005,
+        "opDamageDetails":"Test",
+        "opAddress":"Street B, New Brunswick, Nova Scotia, PH87YU",
+        "opPhone":4589652365,
+        "opDriverLiscence":"testDriverLiscenceNumber",
+        "vendorInvolved":"Y",
+        "vendorAmountSpent":800
+    }
+]

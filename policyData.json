@@ -1,0 +1,47 @@
+[
+    {
+        "policyNumber":"POL1000",
+        "userId": "0001",
+        "expirationDate":"2022-01-01",
+        "deductible": 1000, 
+        "totalAmountSpent":700, 
+        "rating":0, 
+        "annualPremium": 1200
+    },
+    {
+        "policyNumber":"POL1001", 
+        "userId": "0002",
+        "expirationDate":"2021-01-01",
+        "deductible": 1000, 
+        "totalAmountSpent":700, 
+        "rating":1, 
+        "annualPremium": 1400
+    },
+    {
+        "policyNumber":"POL1002", 
+        "userId": "0003",
+        "expirationDate":"2022-05-05",
+        "deductible": 1000, 
+        "totalAmountSpent":700, 
+        "rating":5, 
+        "annualPremium": 1300
+    },
+    {
+        "policyNumber":"POL1003", 
+        "userId": "0004",
+        "expirationDate":"2022-03-03",
+        "deductible": 1000, 
+        "totalAmountSpent":700, 
+        "rating":4, 
+        "annualPremium": 1100
+    },
+    {
+        "policyNumber":"POL1004", 
+        "userId": "0005",
+        "expirationDate":"2023-03-03",
+        "deductible": 1000, 
+        "totalAmountSpent":700, 
+        "rating":3, 
+        "annualPremium": 1100
+    }
+]
